@@ -129,6 +129,7 @@ body {
 }
 
 .button {
+  background-color: white;
   border-radius: 8px;
   display: inline-block;
   font-family: 'PT Sans', sans-serif;
